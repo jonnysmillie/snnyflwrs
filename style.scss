@@ -299,15 +299,20 @@ font-family: 'Zilla Slab Highlight', cursive;
 */
 
 /* Custom Styling for SnnyFlwrs */
+a {color:#db0d34;opacity:0.9;transition:0.33s;text-decoration: none}
+a:hover {color:#db0d34;opacity: 1;transition:0.33s;text-decoration: underline;}
 .masthead {border-bottom: none;}
 .wrapper-masthead {background:#db0d34;}
 .site-name {color:#fddf21;text-shadow: 1px 1px 2px black;font-size: 35px;font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;font-weight: bold}
-.site-name a:hover {color:#ffffff;}
+.site-name a {opacity: 1;}
+.site-name a:hover {color:#fddf21;opacity: 1;transition:0.33s;text-decoration: none}
 .site-description {color:#fddf21; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;text-shadow: 1px 1px 2px black;font-weight: bold}
-nav a {color:#fddf21;font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: bold}
-nav a:hover {color:#ffffff;}
+nav a {opacity: 1;color:#fddf21;font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: bold;border-right: 1px solid #fddf21;margin-right: 0;margin-left:0;padding-right:7px;padding-left: 7px;}
+nav a:last-child {border-right:none;}
+nav a:hover {color:#ffffff;opacity: 1;transition:0.33s;text-decoration: none}
 .wrapper-footer{background:#fddf21;}
 
-.posts .post h1 {color:#db0d34;font-family:"Helvetica Neue", Helvetica, Arial, sans-serif}
-.posts .read-more {color:#db0d34;}
-
+.posts .post h1 {color:#db0d34;font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;}
+.posts .read-more {color:#db0d34;background: #ffffff;margin-top:22px;padding:12px;text-decoration: none!important;border:3px solid #db0d34;}
+.posts .read-more:hover {color:#ffffff;transition:0.33s;border:3px solid #000;background:#db0d34;}
+.posts .entry {margin-bottom: 25px}
