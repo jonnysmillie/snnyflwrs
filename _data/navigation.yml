@@ -1,0 +1,16 @@
+# Site navigation links
+- title: About
+  url: /about/
+  excerpt: "About Sonny Flowers"
+  image: 400x250.gif
+
+
+- title: Articles
+  url: /articles/
+  excerpt: "Contemporary essays"
+  image: article.png
+
+- title: Lists
+  url: /lists/
+  excerpt: "Top 10 Lists of great stuff"
+  image: list.jpg
