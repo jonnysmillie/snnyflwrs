@@ -1,17 +1,17 @@
 ---
 layout: media
-title: "Top 10 Zombie Movies"
+title: "Top 10 Jazz Albums"
 categories: lists
-excerpt: "The best 10 zombie movies of all time."
+excerpt: "The best 10 jazz albums of all time."
 ads: true
 share: false
 image:
-  feature: /blog/zombie.jpg
-  teaser: /blog/zombie.jpg
+  feature: /blog/trumpet.jpg
+  teaser: /blog/trumpet.jpg
 author: Sonny Flowers
 ---
 
-This is a list of the top 10 zombie movies ever.
+This is a list of the top 10 jazz albums ever.
 
 # 10. Zombieland
 
