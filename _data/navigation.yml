@@ -1,13 +1,8 @@
 # Site navigation links
-- title: Home
-  url: /
-  excerpt: "Sonny Flowers"
-  image: logo2.png
-
 - title: About
   url: /about/
   excerpt: "About Sonny Flowers"
-  image: london.jpg
+  image: 400x250.gif
 
 
 - title: Articles

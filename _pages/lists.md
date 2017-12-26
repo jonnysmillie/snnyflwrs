@@ -3,7 +3,7 @@ layout: archive
 title: "Lists"
 date: 2014-05-30T11:40:45-04:00
 modified:
-excerpt: "A selection of lists, mostly top 10s."
+excerpt:
 tags: []
 image:
   feature:

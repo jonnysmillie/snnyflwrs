@@ -1,17 +1,17 @@
 ---
 layout: media
-title: "Top 10 Apocalypse Movies"
+title: "Top 10 Zombie Movies"
 categories: lists
-excerpt: "The best 10 apocalypse movies of all time."
+excerpt: "The best 10 zombie movies of all time."
 ads: true
 share: false
 image:
-  feature: /blog/apocalypse.jpg
-  teaser: /blog/apocalypse.jpg
+  feature: /blog/zombie.jpg
+  teaser: /blog/zombie.jpg
 author: Sonny Flowers
 ---
 
-This is a list of the top 10 apocalypse movies ever.
+This is a list of the top 10 zombie movies ever.
 
 # 10. Zombieland
 
