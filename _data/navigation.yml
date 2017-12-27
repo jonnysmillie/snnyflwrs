@@ -1,4 +1,9 @@
 # Site navigation links
+- title: Home
+  url: /
+  excerpt: "Sonny Flowers"
+  image: 400x250.gif
+
 - title: About
   url: /about/
   excerpt: "About Sonny Flowers"
