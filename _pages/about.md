@@ -1,19 +1,19 @@
 ---
-layout: home
-title: "About"
+layout: about
+title: "About Sonny Flowers"
 date: 2014-06-02T09:44:20-04:00
 modified: 2017-12-10T14:56:44-04:00
 excerpt: ""
 image:
-  feature: colour.png
-  teaser: colour.png
-  thumb: colour.png
+  feature: bg.jpg
+  teaser: bg.jpg
+  thumb: bg.jpg
 share: false
 ads: false
 permalink: /about/
 ---
 
-## Sonny Flowers is a store of contemporary thought and review in the form of articles and lists on philosophy and art.
+## Sonny Flowers also known as snnyflwrs is a modern essayist with a focus on philosophy, politics, and art.
 
 <img src="{{ site.baseurl }}/images/logo.png" width="200px" style="float:right"/>
 
