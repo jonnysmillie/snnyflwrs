@@ -2,9 +2,9 @@
 layout: home
 permalink: /
 image:
-  feature: colour.png
-  teaser: colour.png
-  thumb: colour.png
+  feature: pattern3.jpg
+  teaser: pattern3.jpg
+  thumb: pattern3.jpg
 ---
 
 <h1>Latest posts</h1>
