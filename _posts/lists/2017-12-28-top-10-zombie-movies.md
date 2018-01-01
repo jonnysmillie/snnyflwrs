@@ -4,7 +4,7 @@ title: "Top 10 Zombie Movies"
 categories: lists
 excerpt: "The best 10 zombie movies of all time."
 ads: true
-share: false
+share: true
 image:
   feature: /blog/zombie.jpg
   teaser: /blog/zombie.jpg
